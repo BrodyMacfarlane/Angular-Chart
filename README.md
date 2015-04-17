@@ -9,13 +9,13 @@ Eventually, I plan to add more features to this chart, when needed, so if there 
 
 
 #Sample list of things needed right now (there's so much more):
--A proper explanation of $http and $q,
--how to set up modules,
--how to set up functions,
--when to use $scope,
--how to connect all of your script with angular,
--how to retrieve data from an API,
--a solid explanation of promises and how their callbacks work,
+	-A proper explanation of $http and $q,
+	-how to set up modules,
+	-how to set up functions,
+	-when to use $scope,
+	-how to connect all of your script with angular,
+	-how to retrieve data from an API,
+	-a solid explanation of promises and how their callbacks work,
 
 
 
