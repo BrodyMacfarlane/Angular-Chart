@@ -50,6 +50,7 @@ Make sure you link your view up with Angular and your controller
 ng-app=’’ and ng-controller=’’
 
 Remember to display the data here.
+
 ====
 
 
@@ -64,6 +65,7 @@ communicating from the
 controller to the view.
 
 We don’t typically touch this since it is already written for us.
+
 ====
 
 
@@ -83,6 +85,7 @@ controller to your service by putting your service’s name in your function’s
 Every time you want to call something from that service, use serviceName.(name of item in service)
 
 Connect your service’s content to your $scope.
+
 ====
 
 
@@ -91,11 +94,12 @@ Connect your service’s content to your $scope.
 ####The Service:
 
 no info here
+
 ====
 
 
 
-####API
+####API:
 
 no info here
 
