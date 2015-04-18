@@ -40,8 +40,7 @@ I hope this chart comes to be a useful tool in our early Angular Development lif
 With Angular, our HTML can do new tricks.  We can communicate with the $scope through
 directives that we add to our HTML tags.
 
-see goo.gl/k7lGdt 
-for a list of directives.
+see [this site](goo.gl/k7lGdt) for a list of directives.
 
 i.e. ng-click(”funcName()”)
 where funcName has been defined on $scope in 
