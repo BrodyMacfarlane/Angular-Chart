@@ -22,7 +22,7 @@ Eventually, I plan to add more features to this chart, when needed, so if there 
 
 
 ###Attention: 
-I do not claim that all of the information I have on the chart is correct.  If you see something wrong, or that could be phrased more clearly, please report it to the known bugs section, and I will get to fixing that.  
+I do not claim that all of the information I have on the chart is correct.  If you see something wrong, or that could be phrased more clearly, please report it to the issues section, and I will get to fixing that.  
 
 
 I hope this chart comes to be a useful tool in our early Angular Development life, and wish you all the best of luck in your applications!
