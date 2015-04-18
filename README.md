@@ -3,6 +3,7 @@
 
 #This is intended to be a helpful resource for those in DevMountain Immersive 3.  
 It would be very much appreciated if you all could help make changes! 
+
 If you would like to make changes to the chart, please make a pull request and write them below, and I will get to adding your requests.
 
 Eventually, I plan to add more features to this chart, when needed, so if there are any requests for things I should add, let me know.  I will make this chart as big as needed.
@@ -109,7 +110,7 @@ no info here
 
 
 
-###Other stuff you would want in here
+###Other stuff you would want in here:
 
 
 
