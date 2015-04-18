@@ -1,5 +1,5 @@
 #Angular Chart
-======
+=====
 
 #This is intended to be a helpful resource for those in DevMountain Immersive 3.  
 It would be very much appreciated if you all could help make changes! 
@@ -21,7 +21,6 @@ Eventually, I plan to add more features to this chart, when needed, so if there 
 
 
 ###Attention: 
-=====
 I do not claim that all of the information I have on the chart is correct.  If you see something wrong, or that could be phrased more clearly, please report it to the known bugs section, and I will get to fixing that.  
 
 
@@ -33,11 +32,9 @@ I hope this chart comes to be a useful tool in our early Angular Development lif
 
 
 ##Make changes below:
-=====
 
 
-
-######The View
+####The View
 =====
 
 With Angular, our HTML can do new tricks.  We can communicate with the $scope through
@@ -59,7 +56,7 @@ Remember to display the data here.
 
 
 
-######The $scope
+####The $scope
 =====
 
 Things are defined here from the controller using $scope.
@@ -72,7 +69,7 @@ We don’t typically touch this since it is already written for us.
 
 
 
-######The Controller
+####The Controller
 =====
 
 The controller is basically 
@@ -93,7 +90,7 @@ Connect your service’s content to your $scope.
 
 
 
-######The Service
+####The Service
 =====
 
 no info here
@@ -101,7 +98,7 @@ no info here
 
 
 
-######API
+####API
 =====
 
 no info here
