@@ -34,8 +34,7 @@ I hope this chart comes to be a useful tool in our early Angular Development lif
 ##Make changes below:
 
 
-####The View
-=====
+####The View:
 
 With Angular, our HTML can do new tricks.  We can communicate with the $scope through
 directives that we add to our HTML tags.
@@ -51,13 +50,12 @@ Make sure you link your view up with Angular and your controller
 ng-app=’’ and ng-controller=’’
 
 Remember to display the data here.
+====
 
 
 
 
-
-####The $scope
-=====
+####The $scope:
 
 Things are defined here from the controller using $scope.
 
@@ -66,11 +64,11 @@ communicating from the
 controller to the view.
 
 We don’t typically touch this since it is already written for us.
+====
 
 
 
-####The Controller
-=====
+####The Controller:
 
 The controller is basically 
 the bridge 
@@ -85,39 +83,39 @@ controller to your service by putting your service’s name in your function’s
 Every time you want to call something from that service, use serviceName.(name of item in service)
 
 Connect your service’s content to your $scope.
+====
 
 
 
 
-
-####The Service
-=====
+####The Service:
 
 no info here
-
+====
 
 
 
 ####API
-=====
 
 no info here
 
+====
 
 
 
 
 
 ###Other stuff you would want in here
+
+
+
+
+
+
+
+
+
+
+
+
 ====================
-
-
-
-
-
-
-
-
-
-
-
